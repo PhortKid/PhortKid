@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Phort</h1>
 <h3 align="center">A passionate frontend developer from Tanzania</h3>
+[![committers.top badge](https://user-badge.committers.top/tanzania_private/phortkid.svg)](https://user-badge.committers.top/tanzania_private/phortkid)
 
 - 🔭 I’m currently working on [Lipilima Project](link)
 
