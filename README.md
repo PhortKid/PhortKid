@@ -2,11 +2,11 @@
 <h3 align="center">A passionate frontend developer from Tanzania</h3>
 
 
-- 🔭 I’m currently working on [Lipilima Project](link)
+- 🔭 I’m currently working on [Mkeka App](link)
 
 - 🌱 I’m currently learning **ML,AI**
 
-- 👯 I’m looking to collaborate on [Bustisha project](link)
+- 👯 I’m looking to collaborate on [CursorTz](link)
 
 - 🤝 I’m looking for help with [Uoi itclub](link)
 
