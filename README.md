@@ -2,8 +2,6 @@
 <h3 align="center">A passionate frontend developer from Tanzania</h3>
 
 
-
-
 - 🔭 I’m currently working on [Mkeka App](link)
 
 - 🌱 I’m currently learning **ML,AI**
