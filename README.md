@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **middlephort@gmail.com**
 
-- 📄 Know about my experiences [itclub.co.tz/phort](itclub.co.tz/phort)
+- 📄 Know about my experiences [itclub.co.tz/phort](https://v0-iamphort-portfolio.vercel.app/)
 
 - ⚡ Fun fact **Do not deploy at Friday**
 
