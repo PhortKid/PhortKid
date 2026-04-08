@@ -20,7 +20,7 @@
 
 - 📄 Know about my experiences [itclub.co.tz/phort](https://v0-iamphort-portfolio.vercel.app/)
 
-- ⚡ Fun fact **Do not deploy at Friday**
+- ⚡ Fun fact **Do not deploy at Friday** 
 
 <h3 align="left">Connect with me :</h3>
 
