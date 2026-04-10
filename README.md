@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **ML,AI**
 
-- 👯 I’m looking to collaborate on  [CursorTz](link)
+- 👯 I’m looking to collaborate on  [CursorTz](link).
 
 - 🤝 I’m looking for help with [Uoi itclub](link)
 
